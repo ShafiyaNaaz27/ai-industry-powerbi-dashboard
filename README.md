@@ -124,10 +124,8 @@ Relationships were created to support filtering and time-based analysis.
 
 # 📊 Dashboard Preview
 
-> *(Add your dashboard screenshot here)*
-
 ![AI Industry Dashboard](Images/Screenshot 2026-07-06 174839.png)
----
+
 
 # 💡 Executive Insights
 
